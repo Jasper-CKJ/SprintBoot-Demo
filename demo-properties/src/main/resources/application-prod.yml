@@ -1,0 +1,6 @@
+application:
+  name: prod 环境
+  version: prod 环境
+developer:
+  name: prod 环境 Jasper
+  website: prod 环境 http://prod.jasper.com
