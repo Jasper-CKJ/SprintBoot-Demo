@@ -13,4 +13,4 @@
 |---|---|
 |[demo-hello-world](./demo-hello-world)| spring-boot 的第一个 `hello world`|
 |[demo-properties](./demo-properties)| 读取配置文件中的内容以及 [自动配置](./demo-properties-starter)|
-|[demo-properties](./demo-properties)| 读取配置文件中的内容以及 [自动配置](./demo-properties-starter)|
+|[demo-exception-handler](./demo-exception-handler)| spring-boot 统一异常处理<br/> 1. 返回统一的 json 格式 <br/> 2. 跳转到统一的异常页面|
