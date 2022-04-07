@@ -17,3 +17,4 @@
 |[demo-exception-handler](./demo-exception-handler)| spring-boot 统一异常处理<br/> 1. 返回统一的 json 格式 <br/> 2. 跳转到统一的异常页面|
 |[demo-handler-interceptor](./demo-handler-interceptor)| spring-boot 自定义 HandlerInterceptor 拦截器|
 |[demo-map-struct](./demo-map-struct)| [MapStruct](https://github.com/mapstruct/mapstruct-examples) 对象转换 |
+|[demo-swagger](./demo-swagger)| Swagger api doc [访问地址](http://127.0.0.1:8080/swagger-ui.html)|
