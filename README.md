@@ -18,3 +18,4 @@
 |[demo-handler-interceptor](./demo-handler-interceptor)| spring-boot 自定义 HandlerInterceptor 拦截器|
 |[demo-map-struct](./demo-map-struct)| [MapStruct](https://github.com/mapstruct/mapstruct-examples) 对象转换 |
 |[demo-swagger](./demo-swagger)| Swagger api doc [访问地址](http://127.0.0.1:8080/swagger-ui.html)|
+|[demo-jdbc-template](./demo-jdbc-template)| 集成 Jdbc Template 操作数据库，并简易封装通用 Dao 层 |

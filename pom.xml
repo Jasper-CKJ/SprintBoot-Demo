@@ -11,6 +11,12 @@
         <module>demo-helloworld</module>
         <module>demo-properties</module>
         <module>demo-properties-starter</module>
+        <module>demo-log-aop</module>
+        <module>demo-exception-handler</module>
+        <module>demo-handler-interceptor</module>
+        <module>demo-map-struct</module>
+        <module>demo-swagger</module>
+        <module>demo-jdbc-template</module>
     </modules>
     <packaging>pom</packaging>
 
@@ -22,6 +28,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <spring.boot.version>2.1.0.RELEASE</spring.boot.version>
         <spring.boot.web.version>2.1.0.RELEASE</spring.boot.web.version>
+        <hutool.version>5.4.5</hutool.version>
     </properties>
 
     <dependencyManagement>
