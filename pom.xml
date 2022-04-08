@@ -17,6 +17,7 @@
         <module>demo-map-struct</module>
         <module>demo-swagger</module>
         <module>demo-jdbc-template</module>
+        <module>demo-mybatis</module>
     </modules>
     <packaging>pom</packaging>
 
