@@ -20,3 +20,4 @@
 |[demo-swagger](./demo-swagger)| Swagger api doc [访问地址](http://127.0.0.1:8080/swagger-ui.html)|
 |[demo-jdbc-template](./demo-jdbc-template)| 集成 Jdbc Template 操作数据库，并简易封装通用 Dao 层 |
 |[demo-mybatis](./demo-mybatis)| 集成原生 mybatis |
+|[demo-mybatis-page-helper](./demo-mybatis-page-helper)| 集成通用的 Mapper 和 PageHelper |

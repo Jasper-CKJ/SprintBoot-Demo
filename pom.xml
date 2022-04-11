@@ -30,6 +30,8 @@
         <spring.boot.version>2.1.0.RELEASE</spring.boot.version>
         <spring.boot.web.version>2.1.0.RELEASE</spring.boot.web.version>
         <hutool.version>5.4.5</hutool.version>
+        <mybatis.mapper.version>2.0.4</mybatis.mapper.version>
+        <mybatis.pagehelper.version>1.2.9</mybatis.pagehelper.version>
     </properties>
 
     <dependencyManagement>
