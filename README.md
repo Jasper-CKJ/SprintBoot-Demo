@@ -21,3 +21,4 @@
 |[demo-jdbc-template](./demo-jdbc-template)| 集成 Jdbc Template 操作数据库，并简易封装通用 Dao 层 |
 |[demo-mybatis](./demo-mybatis)| 集成原生 mybatis |
 |[demo-mybatis-page-helper](./demo-mybatis-page-helper)| 集成通用的 Mapper 和 PageHelper |
+|[demo-mybatis-plus](./demo-mybatis-plus)| 集成 mybatis-plus |

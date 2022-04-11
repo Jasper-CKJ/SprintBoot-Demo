@@ -32,6 +32,7 @@
         <hutool.version>5.4.5</hutool.version>
         <mybatis.mapper.version>2.0.4</mybatis.mapper.version>
         <mybatis.pagehelper.version>1.2.9</mybatis.pagehelper.version>
+        <mybatis.plus.version>3.0.5</mybatis.plus.version>
     </properties>
 
     <dependencyManagement>
