@@ -22,3 +22,4 @@
 |[demo-mybatis](./demo-mybatis)| 集成原生 mybatis |
 |[demo-mybatis-page-helper](./demo-mybatis-page-helper)| 集成通用的 Mapper 和 PageHelper |
 |[demo-mybatis-plus](./demo-mybatis-plus)| 集成 mybatis-plus |
+|[demo-redis](./demo-redis)| 整合 redis，操作 redis 中的数据，并使用 redis 缓存数据 |
