@@ -1,0 +1,20 @@
+package com.jasper.security.controller;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+/**
+ * @author jasper
+ * @date 2022-04-18 16:26
+ */
+@RestController
+@RequestMapping("/admin")
+public class AdminController {
+
+    @GetMapping("/demo")
+    public String demo() {
+        return "示例返回";
+    }
+
+}

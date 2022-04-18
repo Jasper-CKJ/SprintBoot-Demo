@@ -24,3 +24,4 @@
 |[demo-mybatis-plus](./demo-mybatis-plus)| 集成 mybatis-plus |
 |[demo-redis](./demo-redis)| 整合 redis，操作 redis 中的数据，并使用 redis 缓存数据 |
 |[demo-elasticsearch](./demo-elasticsearch)| 集成 ElasticSearch，集成 spring-boot-starter-data-elasticsearch 完成对 ElasticSearch 的高级使用技巧，包括创建索引、配置映射、删除索引、增删改查基本操作、复杂查询、高级查询、聚合查询等 |
+|[demo-security](./demo-security)| 集成 spring-security |
